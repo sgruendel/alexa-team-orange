@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "intent": "GarbageCollectionTypeIntent",
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "City",
+          "type": "LIST_OF_CITIES"
+        }
+      ]
+    },
+    {
+      "intent": "GarbageCollectionDateIntent",
+      "slots": [
+        {
+          "name": "GarbageType",
+          "type": "LIST_OF_GARBAGE_TYPES"
+        },
+        {
+          "name": "City",
+          "type": "LIST_OF_CITIES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

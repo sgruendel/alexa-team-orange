@@ -1,0 +1,12 @@
+GarbageCollectionTypeIntent was wird {Date} abgeholt in {City}
+GarbageCollectionTypeIntent was ist {Date} dran in {City}
+GarbageCollectionTypeIntent was {Date} in {City} dran ist
+GarbageCollectionTypeIntent was {Date} in {City} abgeholt wird
+GarbageCollectionTypeIntent was in {City} {Date} abgeholt wird
+GarbageCollectionTypeIntent was in {City} {Date} dran ist
+GarbageCollectionDateIntent wann wird {GarbageType} abgeholt in {City}
+GarbageCollectionDateIntent wann ist {GarbageType} dran in {City}
+GarbageCollectionDateIntent wann in {City} wird {GarbageType} abgeholt
+GarbageCollectionDateIntent wann in {City} ist {GarbageType} dran
+GarbageCollectionDateIntent wann wird in {City} {GarbageType} abgeholt
+GarbageCollectionDateIntent wann ist in {City} {GarbageType} dran
